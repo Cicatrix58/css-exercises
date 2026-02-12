@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #fbb0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#nmr2 {
+    color: #0007c4;
+    font-size: 36px;
+}
+.odd-number.big-font {
+    font-size: 24px;
+}
+#nmr4 {
+    background-color: #70d879;
+    font-size: 24px;
+    font-weight: bold;
+}
